@@ -6,5 +6,6 @@ public with sharing class Day1Apex {
         System.debug('Vesrion 4');
         System.debug('Vesrion 5');
         System.debug('Vesrion 6');
+        System.debug('Vesrion 7');
     }
 }
